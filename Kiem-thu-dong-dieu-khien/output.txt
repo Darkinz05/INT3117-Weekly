@@ -1,0 +1,7 @@
+test_id:1 a:-1.0 b:10.0 output:Giá trị không hợp lệ expected:Giá trị không hợp lệ result:PASS
+test_id:2 a:2.0 b:3.0 output:40000 expected:40000 result:PASS
+test_id:3 a:4.0 b:8.0 output:52000 expected:52000 result:PASS
+test_id:4 a:1.0 b:16.0 output:116000 expected:116000 result:PASS
+test_id:5 a:5.0 b:3.0 output:60000 expected:60000 result:PASS
+test_id:6 a:8.0 b:7.0 output:68000 expected:68000 result:PASS
+test_id:7 a:10.0 b:15.0 output:130000 expected:130000 result:PASS
