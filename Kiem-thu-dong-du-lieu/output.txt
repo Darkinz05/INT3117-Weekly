@@ -1,0 +1,4 @@
+test_id:1 a:4.0 b:4.0 output:40000 expected:40000 result:PASS
+test_id:2 a:4.0 b:8.0 output:52000 expected:52000 result:PASS
+test_id:3 a:3.0 b:15.0 output:110000 expected:110000 result:PASS
+test_id:4 a:9.0 b:2.0 output:60000 expected:60000 result:PASS
