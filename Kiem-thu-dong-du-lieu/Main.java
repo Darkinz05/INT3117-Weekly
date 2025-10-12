@@ -20,6 +20,7 @@ class Delivery {
 
 public class Main {
   public static void main(String[] args) {
+    // test input // a, b, expected output
     Object[][] tests = {
             {4.0, 4.0, 40000.0},
             {4.0, 8.0, 52000.0},
